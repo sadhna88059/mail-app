@@ -1,0 +1,1 @@
+how to activate smtp server
